@@ -1,6 +1,8 @@
+---
 layout: page
-title: "Free will, with and without randomness"
+title: "This is my website"
 permalink: /
+---
 
 # Hello world
 

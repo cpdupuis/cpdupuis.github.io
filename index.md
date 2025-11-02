@@ -8,4 +8,4 @@ permalink: /
 
 This is my index page
 
-[Free will](partcles/freewill)
+[Free will](particles/freewill)
